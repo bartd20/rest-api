@@ -1,0 +1,16 @@
+JSON response:
+{'address': '192.0.2.85/32',
+ 'created': '2020-09-06',
+ 'description': '',
+ 'family': 4,
+ 'id': 207,
+ 'interface': None,
+ 'last_updated': '2020-09-06T04:13:53.445297-07:00',
+ 'nat_inside': None,
+ 'nat_outside': None,
+ 'role': None,
+ 'status': {'label': 'Active', 'value': 1},
+ 'tags': [],
+ 'tenant': None,
+ 'vrf': None}
+
